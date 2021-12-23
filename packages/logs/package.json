@@ -1,11 +1,7 @@
 {
-  "name": "@jmp-cli/common",
+  "name": "@jmp-cli/logs",
   "version": "1.1.0",
-  "description": "common pkg",
-  "keywords": [
-    "common",
-    "functions"
-  ],
+  "description": "logs lib",
   "author": "wu0792 <wu0792@163.com>",
   "homepage": "",
   "license": "MIT",
@@ -21,11 +17,9 @@
     "test": "echo \"Error: run tests from root\" && exit 1"
   },
   "dependencies": {
-    "chalk": "^5.0.0",
-    "dayjs": "^1.10.7",
-    "logs": "^1.0.3",
+    "chalk": "^4.0.0",
     "react": "^17.0.2",
     "react-dom": "^17.0.2"
   },
-  "gitHead": "82e6928c0e91496eb0c2d85271f9e45ed906dc03"
+  "gitHead": "0ef34ff3b39eeae4281db63e0d024c16d59d7fcc"
 }
