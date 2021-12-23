@@ -3,5 +3,5 @@
 module.exports = logs;
 
 function logs() {
-    // TODO.
+    // TODO
 }
