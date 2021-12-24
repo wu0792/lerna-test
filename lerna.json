@@ -1,8 +1,7 @@
 {
-  "version": "1.3.4",
+  "version": {
+    "allowBranch": "main"
+  },
   "useWorkspaces": true,
-  "npmClient": "yarn",
-  "packages": [
-    "packages/*"
-  ]
+  "npmClient": "yarn"
 }
