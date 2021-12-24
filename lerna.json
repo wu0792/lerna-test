@@ -3,6 +3,8 @@
   "useWorkspaces": true,
   "npmClient": "yarn",
   "command": {
-    "allowBranch": "main"
+    "version": {
+      "allowBranch": "main"
+    }
   }
 }
